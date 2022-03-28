@@ -18,10 +18,10 @@
   ],
   "app": {
     "urls": [
-      "/"
+      "/gestioneCE/"
     ],
     "launch": {
-      "web_url": "/",
+      "web_url": "/gestioneCE/",
       "container": "panel",
       "height": 550,
       "width": 350,
@@ -32,7 +32,7 @@
     }
   },
   "start_url": "/index.html",
-  "scope": "/",
+  "scope": "/gestioneCE/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#4CAF50",
